@@ -1,0 +1,64 @@
+.postDate {
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 20px;
+    width: 167px;
+    text-align: center;
+    padding: 5px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.companyLogo {
+    width: 70px;
+    height: 80px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.apllyButton{
+    background-color: aqua;
+}
+.referralButton{
+    background-color: green;
+    color: white;
+}
+
+.allTextType {
+    width: 90%;
+    margin: auto;
+    margin-left: 20px;
+}
+
+.allTextType1 {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.textLetter {
+    text-transform: capitalize;
+}
+.textCenter1{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+button {
+    padding: 10px;
+    outline: none;
+    border: none;
+    width: 85%;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px !important;
+}
+
+.allCart {
+    justify-content: space-around !important;
+}
+
+.cardBox {
+    margin: 10px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
